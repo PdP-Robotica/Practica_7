@@ -18,7 +18,7 @@ En esta práctica, que consiste en realizar una figura utilizando la función "P
 Establecer las coordenadas que serán el Home del robot, solo poner en -90 grados J5, dando los valores de la imagen.
 ![image](https://github.com/user-attachments/assets/29dbde91-0399-48a1-a825-0e7c5a4ec34d)
 
-### 2. Uso de la funcion Pallet
+### 2. Uso de la función Pallet
 La función Pallet necesita algunos parámetros para su correcto funcionamiento. Estos consisten en:
 
 1. El número de Pallet al que se refiere (se pueden guardar hasta 16 palets, del 0 al 15). Para esta práctica será el Pallet 0.
