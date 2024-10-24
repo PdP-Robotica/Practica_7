@@ -52,7 +52,7 @@ Se emplea la siguiente secuencia, iniciando en el punto 4,1, volviendo a la posi
 
 ![image](https://github.com/user-attachments/assets/11aa56a9-ccaf-4c22-a36a-bbb8ec2be598)
 
-### 4. Generar el codigo
+### 4. Generar el código
 Ya que se tiene todo planteado, se genera el código en el archivo "Main.prg", donde primero se encienden los motores y se ajustan la velocidad y aceleración del brazo robótico. Después se colocan las coordenadas en la función Pallet y, una vez terminado, se regresa el robot a su posición inicial en Home.
 
 El código implementado fue:
